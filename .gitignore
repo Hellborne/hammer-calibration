@@ -1,0 +1,10 @@
+# личные файлы: в логе серийный номер станка и его Bluetooth-адрес
+hammer log.txt
+hammer settings.json
+
+# сборка exe
+__pycache__/
+.build-venv/
+build/
+dist/
+*.spec
